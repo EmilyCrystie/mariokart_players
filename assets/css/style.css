@@ -1,0 +1,55 @@
+body{
+    background: var(--cor-secundaria);
+}
+
+body::before{
+    content: '';
+    background-image: url("../imagens/bg-desktop.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+}
+
+main{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+header{
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    font-family: 'ssf4', Courier, monospace;
+    color: var(--cor-titulo-fraco);
+    text-transform: uppercase;
+    font-size: 52px;
+    line-height: 102px;
+    -webkit-text-size-stroke: 2px var(--cor-titulo-forte);
+}
+
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content .player{
+    text-align: center;
+    width: 30%;
+    height: 70vh;
+    position: relative;
+}
+
+.content .player img{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
