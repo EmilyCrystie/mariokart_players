@@ -1,6 +1,6 @@
 <div align="center">
  <h1 align="center"> Marvel Players </h1>
- <p> Simulação da escolha de jogadores do mundo Marvel para game. </p>
+ <p> Projeto realizado na DevWeek: Simulação da escolha de jogadores do mundo Marvel.  </p>
  <br>
  <p> ➡️ Acesse o projeto por <a href="https://marvelplayers.netlify.app" target="_blank"> aqui </a>⬅️</p>
 
@@ -28,7 +28,7 @@
   </ol>
   
  <h3> JS 
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="Javascript" width="15" height="15"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Javascript" width="15" height="15"/>
  </h3>
   <ol>
    <li> DOM com <code>id</code>, <code>data-name</code>, <code>innerHTML</code> </li>
