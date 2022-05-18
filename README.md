@@ -1,6 +1,6 @@
 <div align="center">
  <h1 align="center"> Marvel Players </h1>
- <p> Simulação da escolha de jogadores do mundo Marvel para game. </p>
+ <p> Projeto realizado na DevWeek: Simulação da escolha de jogadores do mundo Marvel.  </p>
  <br>
  <p> ➡️ Acesse o projeto por <a href="https://marvelplayers.netlify.app" target="_blank"> aqui </a>⬅️</p>
 
@@ -13,18 +13,27 @@
   <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="HTML5" width="15" height="15"/>
  </h3>
   <ol>
-   <li>  </li>
-   <li>  </li>
-   <li>  </li>
+   <li> Listas não ordenadas para agrupar os personagens </li>
+   <li> Classes e Id's como forma de identificação dos elementos e manuseio no Css e Js</li>
+   <li> Manipulação de Imagens </li>
   </ol>
   
  <h3> CSS 
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" width="15" height="15"/>
  </h3>
   <ol>
-   <li>  </li>
-   <li>  </li>
-   <li>  </li>
+   <li> Organização de arquivos de estilos por temas </li>
+   <li> Display Flex, Position e Pseudo-Elementos para melhor disposição dos elementos na tela </li>
+   <li> Uso de animações </li>
+  </ol>
+  
+ <h3> JS 
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Javascript" width="15" height="15"/>
+ </h3>
+  <ol>
+   <li> DOM com <code>id</code>, <code>data-name</code>, <code>innerHTML</code> </li>
+   <li> Funções anônimas para declarar as ações a serem executadas </li>
+   <li> Leitura pelo documento e uso de métodos, exemplo <code>getElement</code> </li>
   </ol>
 <br>
  
