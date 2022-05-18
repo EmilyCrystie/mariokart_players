@@ -17,7 +17,7 @@ character.forEach((character) => {
 
         const selectedId = character.attributes.id.value;
 
-        if(selectedId === 'ultron') return;
+        if(selectedId === 'dk') return;
         
 
         //objetivo 1
