@@ -1,10 +1,10 @@
 <div align="center">
- <h1 align="center"> Marvel Players </h1>
- <p> Projeto realizado na DevWeek: Simulação da escolha de jogadores do mundo Marvel.  </p>
+ <h1 align="center"> Mario Kart 64 - Players </h1>
+ <p> Projeto realizado na DevWeek: Simulação da escolha de jogadores para game.  </p>
  <br>
- <p> ➡️ Acesse o projeto por <a href="https://marvelplayers.netlify.app" target="_blank"> aqui </a>⬅️</p>
+ <p> ➡️ Acesse o projeto por <a href="https://mariokartplayers.netlify.app/" target="_blank"> aqui </a>⬅️</p>
 
- ![image](https://user-images.githubusercontent.com/81563039/168708720-5c9522a5-028d-428b-b596-a23eace05f55.png)
+<!--  ![image](https://user-images.githubusercontent.com/81563039/168708720-5c9522a5-028d-428b-b596-a23eace05f55.png) -->
 </div>
 <br>
  
@@ -39,6 +39,9 @@
  
 <h2> 💡 Design </h2>
 <a href="https://www.youtube.com/c/DevemDobro" target="_blank"> Origem da Ideia </a>
+<p> Tema original: Marvel </p>
+
+![image](https://user-images.githubusercontent.com/81563039/168943178-8bc92688-8322-4548-bdda-32afd1e2bf12.png)
 <br>
 <br>
 
