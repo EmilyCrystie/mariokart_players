@@ -1,6 +1,6 @@
 @media (max-width: 1280px){
-    header h1{
-        font-size: 40px;
+    header img{
+        width: 700px;
     }
 
     .content .playerSelection{
@@ -10,6 +10,12 @@
     .content .playerSelection .character{
         width: 100px;
         height: 100px;
+    }
+}
+
+@media (max-width: 900px){
+    header img{
+        width: 600px;
     }
 }
 
@@ -27,8 +33,8 @@
         justify-content: start;
     }
 
-    header h1{
-        font-size: 22px;
+    header img{
+        width: 500px;
     }
 
     .content .player{
@@ -36,8 +42,14 @@
     }
 }
 
-@media(max-width: 360px){
-    header h1{
-        font-size: 19px;
+@media(max-width: 660px){
+    header img{
+        width: 300px;
+    }
+}
+
+@media(max-width: 440px){
+    header img{
+        width: 200px;
     }
 }

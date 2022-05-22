@@ -30,12 +30,8 @@ header{
     justify-content: center;
 }
 
-header h1{
-    color: var(--cor-titulo-fraco);
-    text-transform: uppercase;
-    font-size: 30px;
-    -webkit-text-stroke: 1px var(--cor-titulo-forte);
-    margin: 0;
+header img{
+    width: 900px;
 }
 
 .content{
