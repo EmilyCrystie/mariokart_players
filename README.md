@@ -4,7 +4,7 @@
  <br>
  <p> ➡️ Acesse o projeto por <a href="https://mariokartplayers.netlify.app/" target="_blank"> aqui </a>⬅️</p>
 
-<!--  ![image](https://user-images.githubusercontent.com/81563039/168708720-5c9522a5-028d-428b-b596-a23eace05f55.png) -->
+![image](https://user-images.githubusercontent.com/81563039/169706482-60fdba15-e549-4e5c-99c9-b20edc2911b8.png)
 </div>
 <br>
  
@@ -22,9 +22,10 @@
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" width="15" height="15"/>
  </h3>
   <ol>
-   <li> Organização de arquivos de estilos por temas </li>
+   <li> Organização de arquivos de estilos por funcionalidades </li>
    <li> Display Flex, Position e Pseudo-Elementos para melhor disposição dos elementos na tela </li>
    <li> Uso de animações </li>
+   <li> Responsividade </li>
   </ol>
   
  <h3> JS 
